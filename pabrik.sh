@@ -32,6 +32,7 @@ do
     name=${file%%.svg}
     inkscape $name.svg --export-png=$name.png --export-height=${size[x]} --export-width=${size[x]}
     mv $name.png $pwd/${icon}/${size[x]}/
+    rm -rf $pwd/${icon}/${size[x]}/*symbolic*
     jumlah=$((jumlah+1))
   done
 done
@@ -40,5 +41,6 @@ find . -maxdepth 1 -type l -exec mv {} .. \;
 cd ..
 rmdir symlink
 cd $pwd
-cp -r * /usr/share/icons/Tebu/
+
+cp -r ${icon} /usr/share/icons/Tebu/${icon} 
 echo "Berhasil. $jumlah ikon telah dihasilkan."
