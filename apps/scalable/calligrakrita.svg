@@ -14,7 +14,7 @@
    inkscape:version="0.48.5 r10040"
    width="100%"
    height="100%"
-   sodipodi:docname="calligrakrita.svg">
+   sodipodi:docname="krita.svg">
   <metadata
      id="metadata107">
     <rdf:RDF>
@@ -157,17 +157,6 @@
          stop-opacity="0"
          offset="1" />
     </linearGradient>
-    <filter
-       id="filter3794-72"
-       height="1.3839999"
-       width="1.3839999"
-       color-interpolation-filters="sRGB"
-       y="-0.192"
-       x="-0.192">
-      <feGaussianBlur
-         id="feGaussianBlur3796-97"
-         stdDeviation="5.28" />
-    </filter>
     <clipPath
        id="clipPath3613-86">
       <rect
@@ -191,62 +180,6 @@
          id="feGaussianBlur3796-94"
          stdDeviation="5.28" />
     </filter>
-    <filter
-       id="filter4195"
-       height="1.36"
-       width="1.36"
-       color-interpolation-filters="sRGB"
-       y="-0.18000001"
-       x="-0.18000001">
-      <feGaussianBlur
-         id="feGaussianBlur4197"
-         stdDeviation="5.2159999" />
-    </filter>
-    <linearGradient
-       y2="138.66"
-       x2="48"
-       y1="20.221001"
-       x1="48"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3155"
-       xlink:href="#linearGradient3613-6"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="138.66"
-       x2="48"
-       y1="20.221001"
-       x1="48"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3157"
-       xlink:href="#linearGradient3613-6"
-       inkscape:collect="always" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3613-6"
-       id="linearGradient3305"
-       gradientUnits="userSpaceOnUse"
-       x1="48"
-       y1="20.221001"
-       x2="48"
-       y2="138.66" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3613-6"
-       id="linearGradient3307"
-       gradientUnits="userSpaceOnUse"
-       x1="48"
-       y1="20.221001"
-       x2="48"
-       y2="138.66" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3613-6"
-       id="linearGradient3353"
-       gradientUnits="userSpaceOnUse"
-       x1="48"
-       y1="20.221001"
-       x2="48"
-       y2="138.66" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient11607"

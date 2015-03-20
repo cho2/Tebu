@@ -39,46 +39,6 @@
   <defs
      id="defs4">
     <linearGradient
-       id="linearGradient3613-7"
-       y2="138.66"
-       gradientUnits="userSpaceOnUse"
-       x2="48"
-       y1="20.221"
-       x1="48">
-      <stop
-         id="stop3739-40"
-         stop-color="#fff"
-         offset="0" />
-      <stop
-         id="stop3741-8"
-         stop-color="#fff"
-         stop-opacity="0"
-         offset="1" />
-    </linearGradient>
-    <clipPath
-       id="clipPath3613-22">
-      <rect
-         id="rect3615-13"
-         rx="6"
-         ry="6"
-         height="84"
-         width="84"
-         y="6"
-         x="6"
-         fill="#fff" />
-    </clipPath>
-    <filter
-       id="filter3794-3"
-       height="1.384"
-       width="1.384"
-       color-interpolation-filters="sRGB"
-       y="-.192"
-       x="-.192">
-      <feGaussianBlur
-         id="feGaussianBlur3796-52"
-         stdDeviation="5.28" />
-    </filter>
-    <linearGradient
        id="linearGradient35173"
        y2="5.9877"
        gradientUnits="userSpaceOnUse"

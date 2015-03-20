@@ -15,7 +15,7 @@
    width="96"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="gnome-session-hibernate.svg">
+   sodipodi:docname="preferences-system-notifications.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -49,15 +49,6 @@
          stop-color="#9fd058"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       id="linearGradient4982"
-       y2="5.9877"
-       xlink:href="#linearGradient3700-0"
-       gradientUnits="userSpaceOnUse"
-       x2="48"
-       gradientTransform="translate(101.91,941.34)"
-       y1="90"
-       x1="48" />
     <clipPath
        id="clipPath3613-55">
       <rect
@@ -137,16 +128,6 @@
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3700-0"
-       id="linearGradient3017"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(101.91,941.34)"
-       x1="48"
-       y1="90"
-       x2="48"
-       y2="5.9877" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3700-0"
        id="linearGradient3028"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(101.91,-15.02)"
@@ -176,45 +157,6 @@
        y2="5.9877" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3967"
-       id="linearGradient3041"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-1,0,0,-1,95.996,95.996)"
-       x1="45.996"
-       y1="79.996"
-       x2="45.996"
-       y2="15.996" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3967"
-       id="linearGradient3849"
-       x1="49.106949"
-       y1="17.2714"
-       x2="55.663654"
-       y2="71.373093"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3967"
-       id="linearGradient3853"
-       gradientUnits="userSpaceOnUse"
-       x1="49.106949"
-       y1="17.2714"
-       x2="55.663654"
-       y2="71.373093"
-       gradientTransform="translate(-76.474576,2.8474576)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3967"
-       id="linearGradient3859"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-76.474576,3.9845475)"
-       x1="49.106949"
-       y1="17.2714"
-       x2="55.663654"
-       y2="71.373093" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient90466"
        id="linearGradient3862"
        gradientUnits="userSpaceOnUse"
@@ -240,7 +182,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
