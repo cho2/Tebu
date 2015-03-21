@@ -4,9 +4,11 @@
 
 Base on [Faenza](https://code.google.com/p/faenza-icon-theme/)
 
-#pabrik.sh
+pabrik.sh
+==========================
 script for export all svg file to png file with different sizes
 
-#minizer.sh
+minizer.sh
+==========================
 script for smalling/cleaning a SVG file with [SVGCleaner](https://github.com/RazrFalcon/SVGCleaner)
 
