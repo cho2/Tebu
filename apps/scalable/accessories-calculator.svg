@@ -1,323 +1,55 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   height="96"
-   width="96"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="applications-mathematics.svg">
-  <defs
-     id="defs37337" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview37335" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(0 -956.36)">
-    <rect
-       id="rect5263-0"
-       fill-opacity=".019608"
-       ry="12.724"
-       height="89.978"
-       width="89.978"
-       y="959.35"
-       x="2.9998" />
-    <rect
-       id="rect5261-6"
-       fill-opacity=".039216"
-       ry="12.552"
-       height="88.762"
-       width="88.762"
-       y="959.96"
-       x="3.6078" />
-    <rect
-       id="rect5259-9"
-       fill-opacity=".078431"
-       ry="12.38"
-       height="87.546"
-       width="87.546"
-       y="960.57"
-       x="4.2157" />
-    <rect
-       id="rect5257-5"
-       fill-opacity=".15686"
-       ry="12.208"
-       height="86.33"
-       width="86.33"
-       y="961.18"
-       x="4.8237" />
-    <path
-       id="rect5237"
-       fill="#eaeff1"
-       d="m17.469 961.77c-6.668 0-12.031 5.3945-12.031 12.062v61.031c0 6.668 5.3633 12.031 12.031 12.031h61.031c6.668 0 12.031-5.3633 12.031-12.031v-61.031c0-6.668-5.3633-12.062-12.031-12.062h-61.031z" />
-    <path
-       id="rect5265-0"
-       d="m5.4316 1029.8v5.0663c0 6.668 5.3645 12.032 12.032 12.032h61.049c6.668 0 12.032-5.3645 12.032-12.032v-5.0663c0 6.6681-5.3645 12.032-12.032 12.032h-61.049c-6.668 0-12.032-5.3643-12.032-12.032z"
-       fill-opacity=".20379" />
-    <path
-       id="path5252-0"
-       d="m5.4316 1033.9v1.0133c0 6.668 5.3645 12.032 12.032 12.032h61.049c6.668 0 12.032-5.3645 12.032-12.032v-1.0133c0 6.6681-5.3645 12.032-12.032 12.032h-61.049c-6.668 0-12.032-5.3644-12.032-12.032z"
-       fill-opacity=".098039" />
-    <rect
-       id="rect3329"
-       ry="4.4268"
-       height="31.305"
-       width="31.663"
-       y="967.29"
-       x="12.801"
-       fill="#536c67" />
-    <rect
-       id="rect3331"
-       style="color:#000000"
-       ry="4.4268"
-       height="31.305"
-       width="31.663"
-       y="1004.8"
-       x="12.801"
-       fill="#536c67" />
-    <rect
-       id="rect3333"
-       rx="4.4775"
-       ry="4.6822"
-       height="68.823"
-       width="31.663"
-       y="967.4"
-       x="51.672"
-       fill="#a40" />
-    <rect
-       id="rect3335"
-       rx="4.4775"
-       ry="4.4268"
-       height="28.887"
-       width="31.663"
-       y="967.29"
-       x="12.801"
-       fill="#93aca7" />
-    <rect
-       id="rect3337"
-       rx="4.4775"
-       ry="4.4268"
-       height="28.887"
-       width="31.663"
-       y="1004.8"
-       x="12.801"
-       fill="#93aca7" />
-    <rect
-       id="rect3339"
-       rx="4.4775"
-       ry="4.6822"
-       height="66.053"
-       width="31.663"
-       y="967.4"
-       x="51.672"
-       fill="#ff7f2a" />
-    <g
-       id="g4062"
-       fill="#b3b3b3"
-       transform="matrix(.92683 0 0 .92683 2.5213 72.325)">
-      <rect
-         id="rect4064"
-         rx="3.9315"
-         ry="1.9322"
-         height="20"
-         width="4.5"
-         y="971.86"
-         x="25.625" />
-      <rect
-         id="rect4066"
-         transform="rotate(90)"
-         rx="3.9315"
-         ry="1.9322"
-         height="20"
-         width="4.5"
-         y="-37.875"
-         x="979.61" />
-    </g>
-    <g
-       id="g4058"
-       fill="#fff"
-       transform="matrix(.92683 0 0 .92683 2.0579 71.862)">
-      <rect
-         id="rect4054"
-         rx="3.9315"
-         ry="1.9322"
-         height="20"
-         width="4.5"
-         y="971.86"
-         x="25.625" />
-      <rect
-         id="rect4056"
-         ry="1.9322"
-         rx="3.9315"
-         transform="rotate(90)"
-         height="20"
-         width="4.5"
-         y="-37.875"
-         x="979.61" />
-    </g>
-    <g
-       id="g4068"
-       fill="#b3b3b3"
-       transform="matrix(.66761 .64289 -.64289 .66761 640.75 346.51)">
-      <rect
-         id="rect4070"
-         rx="3.9315"
-         ry="1.9322"
-         height="20"
-         width="4.5"
-         y="971.86"
-         x="25.625" />
-      <rect
-         id="rect4072"
-         ry="1.9322"
-         rx="3.9315"
-         transform="rotate(90)"
-         height="20"
-         width="4.5"
-         y="-37.875"
-         x="979.61" />
-    </g>
-    <g
-       id="g4074"
-       fill="#fff"
-       transform="matrix(.66761 .64289 -.64289 .66761 640.74 345.86)">
-      <rect
-         id="rect4076"
-         rx="3.9315"
-         ry="1.9322"
-         height="20"
-         width="4.5"
-         y="971.86"
-         x="25.625" />
-      <rect
-         id="rect4078"
-         transform="rotate(90)"
-         rx="3.9315"
-         ry="1.9322"
-         height="20"
-         width="4.5"
-         y="-37.875"
-         x="979.61" />
-    </g>
-    <g
-       id="g4080"
-       fill="#b3b3b3"
-       transform="matrix(.66761 .64289 -.64289 .66761 640.75 346.51)">
-      <rect
-         id="rect4082"
-         rx="3.9315"
-         ry="1.9322"
-         height="20"
-         width="4.5"
-         y="971.86"
-         x="25.625" />
-      <rect
-         id="rect4084"
-         transform="rotate(90)"
-         rx="3.9315"
-         ry="1.9322"
-         height="20"
-         width="4.5"
-         y="-37.875"
-         x="979.61" />
-    </g>
-    <g
-       id="g4086"
-       fill="#fff"
-       transform="matrix(.66761 .64289 -.64289 .66761 640.74 345.86)">
-      <rect
-         id="rect4088"
-         rx="3.9315"
-         ry="1.9322"
-         height="20"
-         width="4.5"
-         y="971.86"
-         x="25.625" />
-      <rect
-         id="rect4090"
-         ry="1.9322"
-         rx="3.9315"
-         transform="rotate(90)"
-         height="20"
-         width="4.5"
-         y="-37.875"
-         x="979.61" />
-    </g>
-    <g
-       id="g4104"
-       fill="#ccc"
-       transform="translate(0 -.75)">
-      <rect
-         id="rect4096"
-         transform="rotate(90)"
-         rx="3.6438"
-         ry="1.7908"
-         height="18.537"
-         width="4.1707"
-         y="-77.162"
-         x="994.67" />
-      <rect
-         id="rect4102"
-         ry="1.7908"
-         rx="3.6438"
-         transform="rotate(90)"
-         height="18.537"
-         width="4.1707"
-         y="-77.162"
-         x="1004.7" />
-    </g>
-    <g
-       id="g4108"
-       fill="#fff"
-       transform="translate(0,-1.5)">
-      <rect
-         id="rect4110"
-         ry="1.7908"
-         rx="3.6438"
-         transform="rotate(90)"
-         height="18.537"
-         width="4.1707"
-         y="-77.162"
-         x="994.67" />
-      <rect
-         id="rect4112"
-         transform="rotate(90)"
-         rx="3.6438"
-         ry="1.7908"
-         height="18.537"
-         width="4.1707"
-         y="-77.162"
-         x="1004.7" />
-    </g>
+<svg height="96" width="96" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <defs>
+  <rect x="25.625" rx="2.25" y="971.86" ry="1.932" height="20" id="SVGCleanerId_0" width="4.5"/>
+  <rect x="979.61" rx="2.25" y="-37.875" ry="1.932" height="20" id="SVGCleanerId_1" width="4.5"/>
+  <rect x="994.67" rx="2.085" y="-77.16" ry="1.791" height="18.537" id="SVGCleanerId_2" width="4.171"/>
+  <rect x="1004.7" rx="2.085" y="-77.16" ry="1.791" height="18.537" id="SVGCleanerId_3" width="4.171"/>
+ </defs>
+ <g transform="matrix(1 0 0 1 0 -956.36)">
+  <rect x="3" rx="12.724" y="959.35" fill-opacity="0.02" height="89.98" width="89.98"/>
+  <rect x="3.608" rx="12.552" y="959.96" fill-opacity="0.039" height="88.76" width="88.76"/>
+  <rect x="4.216" rx="12.38" y="960.57" fill-opacity="0.078" height="87.55" width="87.55"/>
+  <rect x="4.824" rx="12.208" y="961.18" fill-opacity="0.157" height="86.33" width="86.33"/>
+  <path d="m17.469 961.77c-6.668 0-12.031 5.3945-12.031 12.062v61.031c0 6.668 5.3633 12.031 12.031 12.031h61.031c6.668 0 12.031-5.3633 12.031-12.031v-61.031c0-6.668-5.3633-12.062-12.031-12.062h-61.031z" fill="#eaeff1"/>
+  <path d="m5.4316 1029.8v5.0663c0 6.668 5.3645 12.032 12.032 12.032h61.049c6.668 0 12.032-5.3645 12.032-12.032v-5.0663c0 6.6681-5.3645 12.032-12.032 12.032h-61.049c-6.668 0-12.032-5.3643-12.032-12.032z" fill-opacity="0.204"/>
+  <path d="m5.4316 1033.9v1.0133c0 6.668 5.3645 12.032 12.032 12.032h61.049c6.668 0 12.032-5.3645 12.032-12.032v-1.0133c0 6.6681-5.3645 12.032-12.032 12.032h-61.049c-6.668 0-12.032-5.3644-12.032-12.032z" fill-opacity="0.098"/>
+  <rect x="12.801" rx="4.427" y="967.29" fill="#536c67" height="31.3" width="31.663"/>
+  <rect x="12.801" rx="4.427" y="1004.8" fill="#536c67" color="#000000" height="31.3" width="31.663"/>
+  <rect x="51.672" rx="4.478" ry="4.682" y="967.4" fill="#a40" height="68.823" width="31.663"/>
+  <rect x="12.801" rx="4.478" ry="4.427" y="967.29" fill="#93aca7" height="28.887" width="31.663"/>
+  <rect x="12.801" rx="4.478" ry="4.427" y="1004.8" fill="#93aca7" height="28.887" width="31.663"/>
+  <rect x="51.672" rx="4.478" ry="4.682" y="967.4" fill="#ff7f2a" height="66.05" width="31.663"/>
+  <g fill="#b3b3b3" transform="matrix(0.92683 0 0 0.92683 2.521 72.33)">
+   <use xlink:href="#SVGCleanerId_0"/>
+   <use xlink:href="#SVGCleanerId_1" transform="matrix(0 1 -1 0 0 0)"/>
   </g>
+  <g fill="#fff" transform="matrix(0.92683 0 0 0.92683 2.058 71.862)">
+   <use xlink:href="#SVGCleanerId_0"/>
+   <use xlink:href="#SVGCleanerId_1" transform="matrix(0 1 -1 0 0 0)"/>
+  </g>
+  <g fill="#b3b3b3" transform="matrix(0.66761 0.64289 -0.64289 0.66761 640.75 346.51)">
+   <use xlink:href="#SVGCleanerId_0"/>
+   <use xlink:href="#SVGCleanerId_1" transform="matrix(0 1 -1 0 0 0)"/>
+  </g>
+  <g fill="#fff" transform="matrix(0.66761 0.64289 -0.64289 0.66761 640.74 345.86)">
+   <use xlink:href="#SVGCleanerId_0"/>
+   <use xlink:href="#SVGCleanerId_1" transform="matrix(0 1 -1 0 0 0)"/>
+  </g>
+  <g fill="#b3b3b3" transform="matrix(0.66761 0.64289 -0.64289 0.66761 640.75 346.51)">
+   <use xlink:href="#SVGCleanerId_0"/>
+   <use xlink:href="#SVGCleanerId_1" transform="matrix(0 1 -1 0 0 0)"/>
+  </g>
+  <g fill="#fff" transform="matrix(0.66761 0.64289 -0.64289 0.66761 640.74 345.86)">
+   <use xlink:href="#SVGCleanerId_0"/>
+   <use xlink:href="#SVGCleanerId_1" transform="matrix(0 1 -1 0 0 0)"/>
+  </g>
+  <g fill="#ccc" transform="matrix(1 0 0 1 0 -0.75)">
+   <use xlink:href="#SVGCleanerId_2" transform="matrix(0 1 -1 0 0 0)"/>
+   <use xlink:href="#SVGCleanerId_3" transform="matrix(0 1 -1 0 0 0)"/>
+  </g>
+  <g fill="#fff" transform="matrix(1 0 0 1 0 -1.5)">
+   <use xlink:href="#SVGCleanerId_2" transform="matrix(0 1 -1 0 0 0)"/>
+   <use xlink:href="#SVGCleanerId_3" transform="matrix(0 1 -1 0 0 0)"/>
+  </g>
+ </g>
 </svg>

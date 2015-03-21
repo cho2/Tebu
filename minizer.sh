@@ -21,7 +21,6 @@ do
   for file in $(ls *svg)
   do
     name=${file%%.svg}
-    #inkscape $name.svg --export-png=$name.png --export-height=${size[x]} --export-width=${size[x]}
    svgcleaner-cli $name.svg $name.svg --remove-prolog --remove-comments  --remove-proc-instr --remove-unused-defs --remove-nonsvg-elts --remove-metadata-elts --remove-inkscape-elts --remove-sodipodi-elts --remove-ai-elts --remove-corel-elts  --remove-msvisio-elts --remove-sketch-elts  --remove-invisible-elts --remove-empty-containers --remove-duplicated-defs --remove-outside-elts  --equal-elts-to-use --ungroup-containers --merge-gradients  --remove-version --remove-unreferenced-ids --remove-notappl-atts 
 
     jumlah=$((jumlah+1))
@@ -32,6 +31,4 @@ find . -maxdepth 1 -type l -exec mv {} .. \;
 cd ..
 rmdir symlink
 cd $pwd
-
-cp -r ${icon} /usr/share/icons/Tebu/${icon} 
 echo "Berhasil. $jumlah ikon telah di perkecil."

@@ -1,319 +1,44 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   height="96"
-   width="96"
-   version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="user-desktop.svg">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview253681" />
-  <defs
-     id="defs4">
-    <clipPath
-       id="clipPath4637"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         id="rect4639"
-         opacity=".75104"
-         ry="7.1631"
-         height="56"
-         width="69.679"
-         y="971.67"
-         x="-46.872"
-         fill="url(#linearGradient4641)" />
-    </clipPath>
-    <linearGradient
-       id="linearGradient4641"
-       y2="975.65"
-       gradientUnits="userSpaceOnUse"
-       x2="3468.4"
-       gradientTransform="matrix(.31367 0 0 .31367 -1073 514.25)"
-       y1="1636.7"
-       x1="3382.6">
-      <stop
-         id="stop4911"
-         stop-color="#1a1a1a"
-         offset="0" />
-      <stop
-         id="stop4913"
-         stop-color="#7a7a7a"
-         offset="1" />
-    </linearGradient>
-    <radialGradient
-       id="radialGradient4612"
-       gradientUnits="userSpaceOnUse"
-       cy="-15.871"
-       cx="56.066"
-       gradientTransform="matrix(-.0022616 -1.0568 1.3856 0 10.224 1077.8)"
-       r="35.938">
-      <stop
-         id="stop3177-6"
-         stop-color="#4490e6"
-         offset="0" />
-      <stop
-         id="stop3179-3"
-         stop-color="#103d8f"
-         offset="1" />
-    </radialGradient>
-    <clipPath
-       id="clipPath4614"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path4616"
-         d="m19.326 968.74c-6.2954 0-11.344 4.8851-11.344 10.923v55.267c0 6.0382 5.0491 10.895 11.344 10.895h57.641c6.2954 0 11.344-4.8567 11.344-10.895v-55.267c0-6.0381-5.0491-10.923-11.344-10.923h-57.641z"
-         fill="url(#linearGradient4618)" />
-    </clipPath>
-    <linearGradient
-       id="linearGradient4618"
-       y2="2.9934"
-       gradientUnits="userSpaceOnUse"
-       x2="47.995"
-       gradientTransform="matrix(.94784 0 0 .90555 2.5019 963.84)"
-       y1="84.031"
-       x1="47.995">
-      <stop
-         id="stop6396"
-         stop-color="#ccc"
-         offset="0" />
-      <stop
-         id="stop6398"
-         stop-color="#dae0de"
-         offset="1" />
-    </linearGradient>
-  </defs>
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     id="layer1"
-     transform="translate(0 -956.36)">
-    <rect
-       id="rect5263-0"
-       fill-opacity=".019608"
-       ry="12.724"
-       height="89.978"
-       width="89.624"
-       y="959.35"
-       x="3.3534" />
-    <rect
-       id="rect5261-6"
-       fill-opacity=".039216"
-       ry="12.552"
-       height="88.762"
-       width="88.413"
-       y="959.96"
-       x="3.9589" />
-    <rect
-       id="rect5259-9"
-       fill-opacity=".078431"
-       ry="12.38"
-       height="87.546"
-       width="87.202"
-       y="960.57"
-       x="4.5645" />
-    <rect
-       id="rect5257-5"
-       fill-opacity=".15686"
-       ry="12.208"
-       height="86.33"
-       width="85.991"
-       y="961.18"
-       x="5.1701" />
-    <g
-       id="g4591"
-       clip-path="url(#clipPath4614)"
-       transform="matrix(1.055 0 0 1.1043 -2.6396 -108.01)">
-      <g
-         id="g4632"
-         transform="matrix(1.1736 0 0 1.3694 62.089 -362.1)"
-         clip-path="url(#clipPath4637)">
-        <path
-           id="path3215-5"
-           d="m24.076 1029.6v-61.521h-71.937v61.521h71.937z"
-           fill="url(#radialGradient4612)" />
-      </g>
-      <path
-         id="rect4546"
-         opacity=".71369"
-         d="m16.606 968.47c-5.2708 0-9.5164 4.3772-9.5164 9.8114v57.078c0 5.4341 4.2456 9.8114 9.5164 9.8114h17.921v-76.701h-17.921z"
-         fill-opacity=".59155" />
-      <path
-         id="rect5316"
-         opacity=".71369"
-         d="m34.528 1030.7v14.431h44.804c0.18842 0 0.37006-0.036 0.5557-0.054 0.0074-0.1486 0.03473-0.2756 0.03473-0.4275v-8.1775c0-3.1823-3.6482-5.7723-5.7163-5.7723h-39.678z"
-         fill-opacity=".20657" />
-      <path
-         id="rect5339"
-         opacity=".71369"
-         d="m34.528 968.69v5.4428h53.417c-1.254-2.7619-3.6892-4.8175-6.6685-5.4428h-46.749zm-22.645 1.0742c-0.2018 0.11909-0.39848 0.26023-0.59044 0.39389 0.1965-0.13666 0.38379-0.27235 0.59044-0.39389z"
-         fill-opacity=".84507" />
-      <rect
-         id="rect5358"
-         opacity=".71369"
-         fill-opacity=".23005"
-         ry="0"
-         height="5.2996"
-         width="19.866"
-         y="973.24"
-         x="10.829" />
-      <rect
-         id="rect5360"
-         opacity=".71369"
-         fill-opacity=".23005"
-         ry="0"
-         height="5.2996"
-         width="19.866"
-         y="980.11"
-         x="10.829" />
-      <rect
-         id="rect5362"
-         opacity=".71369"
-         fill-opacity=".23005"
-         ry="0"
-         height="5.2996"
-         width="19.866"
-         y="986.99"
-         x="10.829" />
-      <rect
-         id="rect5364"
-         opacity=".71369"
-         fill-opacity=".23005"
-         ry="0"
-         height="5.2996"
-         width="19.866"
-         y="993.87"
-         x="10.829" />
-      <rect
-         id="rect5366"
-         opacity=".71369"
-         fill-opacity=".23005"
-         ry="0"
-         height="5.2996"
-         width="19.866"
-         y="1000.7"
-         x="10.829" />
-      <rect
-         id="rect5368"
-         opacity=".71369"
-         fill-opacity=".23005"
-         ry="0"
-         height="5.2996"
-         width="19.866"
-         y="1007.6"
-         x="10.829" />
-      <rect
-         id="rect5370"
-         opacity=".71369"
-         fill-opacity=".23005"
-         ry="0"
-         height="5.2996"
-         width="19.866"
-         y="1014.5"
-         x="10.829" />
-      <rect
-         id="rect5372"
-         opacity=".71369"
-         fill-opacity=".23005"
-         ry="0"
-         height="5.2996"
-         width="19.866"
-         y="1021.4"
-         x="10.829" />
-      <rect
-         id="rect5374"
-         opacity=".71369"
-         fill-opacity=".23005"
-         ry="0"
-         height="5.2996"
-         width="19.866"
-         y="1028.2"
-         x="10.829" />
-      <rect
-         id="rect5376"
-         opacity=".71369"
-         fill-opacity=".23005"
-         ry="0"
-         height="5.2996"
-         width="19.866"
-         y="1035.1"
-         x="10.829" />
-      <rect
-         id="rect4541"
-         opacity=".71369"
-         fill-opacity=".59155"
-         ry="1.9649"
-         height="6.1717"
-         width="6.4296"
-         y="1033.2"
-         x="38.022"
-         fill="#000080" />
-      <rect
-         id="rect4543"
-         opacity=".71369"
-         fill-opacity=".59155"
-         ry="1.9649"
-         height="6.1717"
-         width="6.4296"
-         y="1033.2"
-         x="48.056"
-         fill="#000080" />
-      <rect
-         id="rect4545"
-         opacity=".71369"
-         fill-opacity=".59155"
-         ry="1.9649"
-         height="6.1717"
-         width="6.4296"
-         y="1033.2"
-         x="58.089"
-         fill="#000080" />
-      <rect
-         id="rect4547"
-         opacity=".71369"
-         fill-opacity=".59155"
-         ry="1.9649"
-         height="6.1717"
-         width="6.4296"
-         y="1033.2"
-         x="68.123"
-         fill="#000080" />
-    </g>
-    <path
-       id="rect5265-0"
-       d="m5.7756 1029.8v5.0663c0 6.668 5.3434 12.032 11.985 12.032h60.809c6.6418 0 11.985-5.3645 11.985-12.032v-5.0663c0 6.6681-5.3434 12.032-11.985 12.032h-60.809c-6.6418 0-11.985-5.3643-11.985-12.032z"
-       fill-opacity=".29412" />
-    <path
-       id="path5252-0"
-       d="m5.7756 1033.9v1.0133c0 6.668 5.3434 12.032 11.985 12.032h60.809c6.6418 0 11.985-5.3645 11.985-12.032v-1.0133c0 6.6681-5.3434 12.032-11.985 12.032h-60.809c-6.6418 0-11.985-5.3644-11.985-12.032z"
-       fill-opacity=".16863" />
+<svg height="96" width="96" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <defs>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath4637">
+   <rect x="-46.872" rx="7.163" y="971.67" height="56" width="69.68"/>
+  </clipPath>
+  <radialGradient cy="-15.871" r="35.938" gradientUnits="userSpaceOnUse" id="radialGradient4612" cx="56.07" gradientTransform="matrix(-0.00226 -1.0568 1.3856 0 10.224 1077.8)">
+   <stop stop-color="#4490e6"/>
+   <stop stop-color="#103d8f" offset="1"/>
+  </radialGradient>
+  <clipPath clipPathUnits="userSpaceOnUse" id="clipPath4614">
+   <path d="m19.326 968.74c-6.2954 0-11.344 4.8851-11.344 10.923v55.267c0 6.0382 5.0491 10.895 11.344 10.895h57.641c6.2954 0 11.344-4.8567 11.344-10.895v-55.267c0-6.0381-5.0491-10.923-11.344-10.923h-57.641z"/>
+  </clipPath>
+ </defs>
+ <g transform="matrix(1 0 0 1 0 -956.36)">
+  <rect x="3.353" rx="12.724" y="959.35" fill-opacity="0.02" height="89.98" width="89.62"/>
+  <rect x="3.959" rx="12.552" y="959.96" fill-opacity="0.039" height="88.76" width="88.41"/>
+  <rect x="4.564" rx="12.38" y="960.57" fill-opacity="0.078" height="87.55" width="87.2"/>
+  <rect x="5.17" rx="12.208" y="961.18" fill-opacity="0.157" height="86.33" width="85.991"/>
+  <g clip-path="url(#clipPath4614)" transform="matrix(1.055 0 0 1.1043 -2.64 -108.01)">
+   <g clip-path="url(#clipPath4637)" transform="matrix(1.1736 0 0 1.3694 62.09 -362.1)">
+    <path d="m24.076 1029.6v-61.521h-71.937v61.521h71.937z" fill="url(#radialGradient4612)"/>
+   </g>
+   <path d="m16.606 968.47c-5.2708 0-9.5164 4.3772-9.5164 9.8114v57.078c0 5.4341 4.2456 9.8114 9.5164 9.8114h17.921v-76.701h-17.921z" fill-opacity="0.592" opacity="0.714"/>
+   <path d="m34.528 1030.7v14.431h44.804c0.18842 0 0.37006-0.036 0.5557-0.054 0.0074-0.1486 0.03473-0.2756 0.03473-0.4275v-8.1775c0-3.1823-3.6482-5.7723-5.7163-5.7723h-39.678z" fill-opacity="0.207" opacity="0.714"/>
+   <path d="m34.528 968.69v5.4428h53.417c-1.254-2.7619-3.6892-4.8175-6.6685-5.4428h-46.749zm-22.645 1.0742c-0.2018 0.11909-0.39848 0.26023-0.59044 0.39389 0.1965-0.13666 0.38379-0.27235 0.59044-0.39389z" fill-opacity="0.845" opacity="0.714"/>
+   <rect x="10.829" rx="0" y="973.24" fill-opacity="0.23" height="5.3" opacity="0.714" width="19.866"/>
+   <rect x="10.829" rx="0" y="980.11" fill-opacity="0.23" height="5.3" opacity="0.714" width="19.866"/>
+   <rect x="10.829" rx="0" y="986.99" fill-opacity="0.23" height="5.3" opacity="0.714" width="19.866"/>
+   <rect x="10.829" rx="0" y="993.87" fill-opacity="0.23" height="5.3" opacity="0.714" width="19.866"/>
+   <rect x="10.829" rx="0" y="1000.7" fill-opacity="0.23" height="5.3" opacity="0.714" width="19.866"/>
+   <rect x="10.829" rx="0" y="1007.6" fill-opacity="0.23" height="5.3" opacity="0.714" width="19.866"/>
+   <rect x="10.829" rx="0" y="1014.5" fill-opacity="0.23" height="5.3" opacity="0.714" width="19.866"/>
+   <rect x="10.829" rx="0" y="1021.4" fill-opacity="0.23" height="5.3" opacity="0.714" width="19.866"/>
+   <rect x="10.829" rx="0" y="1028.2" fill-opacity="0.23" height="5.3" opacity="0.714" width="19.866"/>
+   <rect x="10.829" rx="0" y="1035.1" fill-opacity="0.23" height="5.3" opacity="0.714" width="19.866"/>
+   <rect x="38.02" rx="1.965" y="1033.2" fill="#000080" fill-opacity="0.592" height="6.172" opacity="0.714" width="6.43"/>
+   <rect x="48.06" rx="1.965" y="1033.2" fill="#000080" fill-opacity="0.592" height="6.172" opacity="0.714" width="6.43"/>
+   <rect x="58.09" rx="1.965" y="1033.2" fill="#000080" fill-opacity="0.592" height="6.172" opacity="0.714" width="6.43"/>
+   <rect x="68.12" rx="1.965" y="1033.2" fill="#000080" fill-opacity="0.592" height="6.172" opacity="0.714" width="6.43"/>
   </g>
+  <path d="m5.7756 1029.8v5.0663c0 6.668 5.3434 12.032 11.985 12.032h60.809c6.6418 0 11.985-5.3645 11.985-12.032v-5.0663c0 6.6681-5.3434 12.032-11.985 12.032h-60.809c-6.6418 0-11.985-5.3643-11.985-12.032z" fill-opacity="0.294"/>
+  <path d="m5.7756 1033.9v1.0133c0 6.668 5.3434 12.032 11.985 12.032h60.809c6.6418 0 11.985-5.3645 11.985-12.032v-1.0133c0 6.6681-5.3434 12.032-11.985 12.032h-60.809c-6.6418 0-11.985-5.3644-11.985-12.032z" fill-opacity="0.169"/>
+ </g>
 </svg>
