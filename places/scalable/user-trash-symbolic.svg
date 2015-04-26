@@ -13,8 +13,8 @@
    height="16"
    id="svg4359"
    version="1.1"
-   inkscape:version="0.91pre2 r"
-   sodipodi:docname="user-trash.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="user-trash-symbolic.svg">
   <defs
      id="defs4361" />
   <sodipodi:namedview
@@ -24,17 +24,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="46.138717"
-     inkscape:cx="1.1083652"
-     inkscape:cy="9.9042297"
+     inkscape:zoom="16.3125"
+     inkscape:cx="19.009735"
+     inkscape:cy="3.0557473"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="672"
-     inkscape:window-x="-4"
-     inkscape:window-y="25"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
      borderlayer="true"
@@ -115,7 +115,7 @@
      inkscape:groupmode="layer"
      transform="translate(-3,-29)">
     <path
-       style="opacity:1;fill:#bebebe;fill-opacity:1;stroke:none"
+       style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none"
        d="M 8 2 C 6.6909174 2 5.593201 2.8353112 5.1816406 4 L 5 4 L 2 4 L 2 5 L 3 5 L 3 14 L 4 14 L 12 14 L 13 14 L 13 5 L 14 5 L 14 4 L 11 4 L 10.818359 4 C 10.406799 2.8353112 9.3090826 2 8 2 z M 8 3 C 8.7410699 3 9.3790485 3.4042011 9.7246094 4 L 6.2753906 4 C 6.6209515 3.4042011 7.2589301 3 8 3 z M 4 5 L 5 5 L 6 5 L 10 5 L 11 5 L 12 5 L 12 13 L 8 13 L 8 10 L 7 10 L 7 13 L 6 13 L 6 7 L 5 7 L 5 13 L 4 13 L 4 5 z "
        transform="translate(3,29)"
        id="rect4121" />

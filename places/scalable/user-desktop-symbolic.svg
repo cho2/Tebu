@@ -1,3 +1,76 @@
-<svg enable-background="new" viewBox="0 0 16.0002 16" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <path stroke="none" stroke-dasharray="none" stroke-dashoffset="0" stroke-linecap="butt" stroke-linejoin="miter" color="#000000" stroke-miterlimit="4" stroke-opacity="1" color-interpolation="sRGB" image-rendering="auto" stroke-width="1" color-interpolation-filters="linearRGB" color-rendering="auto" d="M 2 2 L 2 14 L 14 14 L 14 2 L 2 2 z M 3 3 L 13 3 L 13 4 L 3 4 L 3 3 z M 3 5 L 13 5 L 13 13 L 12 13 L 12 12 L 12 11 L 11 11 L 5 11 L 4 11 L 4 13 L 3 13 L 3 5 z M 5 12 L 11 12 L 11 13 L 5 13 L 5 12 z " text-rendering="auto" display="inline" visibility="visible" fill="#bebebe" fill-opacity="1" opacity="1" fill-rule="nonzero" shape-rendering="auto"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new"
+   viewBox="0 0 16.0002 16"
+   height="16"
+   width="16"
+   id="svg3295"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="user-desktop-symbolic.svg">
+  <metadata
+     id="metadata3303">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3301" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview3299"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3295" />
+  <path
+     stroke="none"
+     stroke-dasharray="none"
+     stroke-dashoffset="0"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     color="#000000"
+     stroke-miterlimit="4"
+     stroke-opacity="1"
+     color-interpolation="sRGB"
+     image-rendering="auto"
+     stroke-width="1"
+     color-interpolation-filters="linearRGB"
+     color-rendering="auto"
+     d="M 2 2 L 2 14 L 14 14 L 14 2 L 2 2 z M 3 3 L 13 3 L 13 4 L 3 4 L 3 3 z M 3 5 L 13 5 L 13 13 L 12 13 L 12 12 L 12 11 L 11 11 L 5 11 L 4 11 L 4 13 L 3 13 L 3 5 z M 5 12 L 11 12 L 11 13 L 5 13 L 5 12 z "
+     text-rendering="auto"
+     display="inline"
+     visibility="visible"
+     fill="#bebebe"
+     fill-opacity="1"
+     opacity="1"
+     fill-rule="nonzero"
+     shape-rendering="auto"
+     id="path3297"
+     style="fill:#1a1a1a" />
 </svg>
