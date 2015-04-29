@@ -1,6 +1,6 @@
 <svg height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
  <g transform="matrix(1 0 0 1 -60 -338)">
-  <rect x="61.03" rx="1.069" y="342" fill="#bebebe" color="#bebebe" height="9" width="9.969"/>
-  <path d="m71 346.47 3.469-3.47h0.64474v7h-0.70614l-3.408-3.53z" fill="#bebebe" color="#bebebe"/>
+  <rect x="61.03" rx="1.069" y="342" fill="#666666" color="#666666" height="9" width="9.969"/>
+  <path d="m71 346.47 3.469-3.47h0.64474v7h-0.70614l-3.408-3.53z" fill="#666666" color="#666666"/>
  </g>
 </svg>

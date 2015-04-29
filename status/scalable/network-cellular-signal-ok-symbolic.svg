@@ -1,8 +1,8 @@
 <svg height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
  <g inkscape:label="Calque 1" inkscape:groupmode="layer">
-  <rect x="12" stroke-width="1" display="inline" rx="1" y="1" fill="#bebebe" color="#000000" fill-opacity="1" stroke="none" fill-rule="nonzero" height="13" visibility="visible" opacity="0.45" width="3"/>
-  <rect x="8" stroke-width="1" display="inline" rx="1" y="4" fill="#bebebe" color="#000000" fill-opacity="1" stroke="none" fill-rule="nonzero" height="10" visibility="visible" opacity="0.45" width="3"/>
-  <rect x="4" stroke-width="1" display="inline" rx="1" y="7" fill="#bebebe" color="#000000" fill-opacity="1" stroke="none" fill-rule="nonzero" height="7" visibility="visible" opacity="1" width="3"/>
-  <rect stroke-width="1" display="inline" rx="1" y="10" fill="#bebebe" color="#000000" fill-opacity="1" stroke="none" fill-rule="nonzero" height="4" visibility="visible" opacity="1" width="3"/>
+  <rect x="12" stroke-width="1" display="inline" rx="1" y="1" fill="#666666" color="#000000" fill-opacity="1" stroke="none" fill-rule="nonzero" height="13" visibility="visible" opacity="0.45" width="3"/>
+  <rect x="8" stroke-width="1" display="inline" rx="1" y="4" fill="#666666" color="#000000" fill-opacity="1" stroke="none" fill-rule="nonzero" height="10" visibility="visible" opacity="0.45" width="3"/>
+  <rect x="4" stroke-width="1" display="inline" rx="1" y="7" fill="#666666" color="#000000" fill-opacity="1" stroke="none" fill-rule="nonzero" height="7" visibility="visible" opacity="1" width="3"/>
+  <rect stroke-width="1" display="inline" rx="1" y="10" fill="#666666" color="#000000" fill-opacity="1" stroke="none" fill-rule="nonzero" height="4" visibility="visible" opacity="1" width="3"/>
  </g>
 </svg>

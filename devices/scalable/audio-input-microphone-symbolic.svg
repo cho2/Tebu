@@ -3,15 +3,15 @@
   <clipPath clipPathUnits="userSpaceOnUse" id="clipPath6810-7">
    <rect x="21" y="281" height="11" width="14"/>
   </clipPath>
-  <path d="m24 361a1 1 0 1 1 -2 0 1 1 0 1 1 2 0z" fill="#bebebe" color="#bebebe" id="SVGCleanerId_0"/>
+  <path d="m24 361a1 1 0 1 1 -2 0 1 1 0 1 1 2 0z" fill="#666666" color="#666666" id="SVGCleanerId_0"/>
  </defs>
  <g transform="matrix(1 0 0 1 -40 -448)">
-  <rect x="45" rx="2.5" y="448.99" fill="#bebebe" color="#bebebe" height="10.01" width="5"/>
-  <path d="m27.969 273.62c-2.5025 0-4.5312 2.0288-4.5312 4.5312v5.8125c0 2.5025 2.0288 4.5312 4.5312 4.5312 2.5025 0 4.5312-2.0288 4.5312-4.5312v-5.8125c0-2.5025-2.0288-4.5312-4.5312-4.5312zm0 1c1.9641 0 3.5312 1.5671 3.5312 3.5312v5.8125c0 1.9642-1.5671 3.5312-3.5312 3.5312s-3.5312-1.5671-3.5312-3.5312v-5.8125c0-1.9642 1.5671-3.5312 3.5312-3.5312z" clip-path="url(#clipPath6810-7)" fill="#bebebe" color="#bebebe" transform="matrix(0.99397 0 0 1 19.707 172.51)"/>
+  <rect x="45" rx="2.5" y="448.99" fill="#666666" color="#666666" height="10.01" width="5"/>
+  <path d="m27.969 273.62c-2.5025 0-4.5312 2.0288-4.5312 4.5312v5.8125c0 2.5025 2.0288 4.5312 4.5312 4.5312 2.5025 0 4.5312-2.0288 4.5312-4.5312v-5.8125c0-2.5025-2.0288-4.5312-4.5312-4.5312zm0 1c1.9641 0 3.5312 1.5671 3.5312 3.5312v5.8125c0 1.9642-1.5671 3.5312-3.5312 3.5312s-3.5312-1.5671-3.5312-3.5312v-5.8125c0-1.9642 1.5671-3.5312 3.5312-3.5312z" clip-path="url(#clipPath6810-7)" fill="#666666" color="#666666" transform="matrix(0.99397 0 0 1 19.707 172.51)"/>
   <use xlink:href="#SVGCleanerId_0" transform="matrix(0.5 0 0 0.5 32 273)"/>
   <use xlink:href="#SVGCleanerId_0" transform="matrix(0.5 0 0 0.5 40 273)"/>
-  <path d="m43.906 462a1.0011 1.0011 0 1 0 0.094 2h7a1.0001 1.0001 0 1 0 0 -2h-7a1.0001 1.0001 0 0 0 -0.09375 0z" fill="#bebebe" color="#bebebe"/>
-  <rect x="43" y="463" fill="#bebebe" color="#bebebe" height="1" width="9"/>
-  <rect x="46" y="460" fill="#bebebe" color="#bebebe" height="4" width="3"/>
+  <path d="m43.906 462a1.0011 1.0011 0 1 0 0.094 2h7a1.0001 1.0001 0 1 0 0 -2h-7a1.0001 1.0001 0 0 0 -0.09375 0z" fill="#666666" color="#666666"/>
+  <rect x="43" y="463" fill="#666666" color="#666666" height="1" width="9"/>
+  <rect x="46" y="460" fill="#666666" color="#666666" height="4" width="3"/>
  </g>
 </svg>
