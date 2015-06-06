@@ -1,0 +1,8 @@
+<svg display="inline" height="96" width="96" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+ <g transform="matrix(1 0 0 1 0 74)">
+  <rect x="70" rx="4" y="-66" fill="#ffffff" fill-opacity="1" stroke="none" height="80" opacity="0.2" width="16"/>
+  <rect x="50" rx="4" y="-50" fill="#ffffff" fill-opacity="1" stroke="none" height="64" opacity="0.2" width="16"/>
+  <rect x="30" rx="4" y="-34" fill="#ffffff" fill-opacity="1" stroke="none" height="48" opacity="0.2" width="16"/>
+  <rect x="10" rx="4" y="-18" fill="#ffffff" fill-opacity="1" stroke="none" height="32" opacity="0.2" width="16"/>
+ </g>
+</svg>
