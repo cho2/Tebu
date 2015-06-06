@@ -1,6 +1,0 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <g display="inline" inkscape:label="Cross" inkscape:groupmode="layer" transform="matrix(1 0 0 1 -0.464 -3)">
-  <path d="m 13,8 c 0,2.209139 -2.238576,4 -5,4 C 5.2385763,12 3,10.209139 3,8 3,5.790861 5.2385763,4 8,4 c 0,0 10e-8,0 10e-8,0 L 8,8 z" fill="#cccccc" fill-opacity="1" stroke="none" opacity="0.45" sodipodi:end="4.712389" sodipodi:type="arc" sodipodi:cx="8" sodipodi:cy="8" sodipodi:rx="5" sodipodi:ry="4" sodipodi:start="0" transform="matrix(1 0 0 1 0.464 3)"/>
-  <path d="M 8 2 C 4.1340071 2 1 4.4101491 1 8 C 1 11.589851 4.1340071 14 8 14 C 9.064957 14 10.065093 13.770035 10.96875 13.375 L 15 15 L 13.5625 11.4375 C 14.465672 10.342799 15 9.485565 15 8 C 15 4.4101491 11.865993 2 8 2 z M 8 4 C 10.761424 4 13 5.7908611 13 8 C 13 10.209139 10.761424 12 8 12 C 5.2385763 12 3 10.209139 3 8 C 3 5.7908611 5.2385763 4 8 4 z " fill="#cccccc" fill-opacity="1" stroke="none" opacity="1" transform="matrix(1 0 0 1 0.464 3)"/>
- </g>
-</svg>

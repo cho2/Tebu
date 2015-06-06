@@ -1,7 +1,0 @@
-<svg display="inline" height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <g inkscape:label="Icon" inkscape:groupmode="layer" transform="matrix(1 0 0 1 0 -6)">
-  <path d="M 0,20.75 C 0,21.4425 0.5575,22 1.25,22 l 8.5,0 C 10.4425,22 11,21.4425 11,20.75 L 11,19.0625 9,15.6875 9,19.25 C 9,19.6655 8.6655,20 8.25,20 l -5.5,0 C 2.3345,20 2,19.6655 2,19.25 l 0,-8.5 C 2,10.3345 2.3345,10 2.75,10 l 5.5,0 C 8.6655,10 9,10.3345 9,10.75 L 9,14 9.90625,14 A 1.0121545,1.0121545 0 0 1 10,14 l 1,-0.03125 0,-3.875 L 11,9.9375 11,9.25 C 11,8.5575 10.4425,8 9.75,8 L 8,8 8,7 8,6.5 C 8,6.223 7.777,6 7.5,6 L 7,6 4,6 3.5,6 C 3.223,6 3,6.223 3,6.5 L 3,7 3,8 1.25,8 C 0.5575,8 0,8.5575 0,9.25 l 0,11.5 z" fill="#cccccc" fill-opacity="1" stroke="none" inkscape:connector-curvature="0"/>
-  <path d="M 14,22 10,15 12.458476,15 12,10 l 4,7 -2.526167,0 z" fill="#cccccc" fill-opacity="1" stroke="none" sodipodi:nodetypes="ccccccc" inkscape:connector-curvature="0"/>
-  <path d="m 2,11 0,2.5 C 2,13.777 2.223,14 2.5,14 l 6,0 C 8.777,14 9,13.777 9,13.5 L 9,11 z" stroke-width="1.5" fill="#d40000" color="#000000" fill-opacity="1" fill-rule="nonzero" stroke="none" visibility="visible" sodipodi:nodetypes="csssscc" inkscape:connector-curvature="0" transform="matrix(1 0 0 1 0 6)"/>
- </g>
-</svg>
