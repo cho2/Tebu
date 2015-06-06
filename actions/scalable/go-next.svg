@@ -38,11 +38,11 @@
      inkscape:window-height="480"
      id="namedview66"
      showgrid="false"
-     inkscape:zoom="2.4583333"
-     inkscape:cx="22.98305"
-     inkscape:cy="47.999999"
-     inkscape:window-x="66"
-     inkscape:window-y="91"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="35.200726"
+     inkscape:cy="22.188091"
+     inkscape:window-x="256"
+     inkscape:window-y="252"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <defs
@@ -102,7 +102,7 @@
        x2="4.943"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3022"
-       gradientTransform="matrix(0,-2.76354,-3.22312,0,80.03,80.66)">
+       gradientTransform="matrix(0,-4.4273776,-5.1636558,0,97.690256,98.780863)">
       <stop
          stop-color="#1a1a1a"
          stop-opacity="1"
@@ -126,38 +126,19 @@
        opacity="0.6"
        width="84" />
   </defs>
-  <g
-     id="g3456"
-     transform="matrix(1.6020675,0,0,1.6020675,-30.523206,-30.441902)">
-    <path
-       d="m 24.082,58.976588 c 0.023,1.405385 1.513177,2.084392 2.750526,1.875 4.447741,0 8.895483,0 13.343224,0 0.04037,2.508229 -0.08159,5.034547 0.0625,7.53125 0.269555,1.525208 2.304816,2.018249 3.377411,0.970516 9.890134,-6.294944 19.819357,-12.56852 29.685089,-18.876766 1.196123,-0.94369 0.714797,-2.935075 -0.658661,-3.435734 C 62.745169,40.762462 52.863395,34.456461 42.957,28.195338 c -1.396637,-0.675014 -3.033781,0.669549 -2.78125,2.172138 0,2.213454 0,4.426908 0,6.640362 -4.769966,0.0209 -9.546847,-0.04176 -14.3125,0.03125 -1.502471,0.08111 -1.958239,1.726736 -1.78125,2.979867 0,6.319211 0,12.638422 0,18.957633 z"
-       inkscape:connector-curvature="0"
-       id="path42"
-       style="opacity:0.15;fill:black;fill-opacity:1;stroke:none" />
-    <path
-       d="m 25.035,59.08375 a 1.0065069,1.0065069 0 0 0 1,0.8125 l 15.09375,0 0,8.09375 A 1.0065069,1.0065069 0 0 0 42.66,68.83375 l 29.90625,-19 a 1.0065069,1.0065069 0 0 0 0,-1.6875 l -29.90625,-19 A 1.0065069,1.0065069 0 0 0 41.12875,29.99 l 0,8 -15.09375,0 a 1.0065069,1.0065069 0 0 0 -1,1 l 0,19.90625 a 1.0065069,1.0065069 0 0 0 0,0.1875 z"
-       id="path44"
-       inkscape:connector-curvature="0"
-       style="opacity:0.15;fill:black;fill-opacity:1;stroke:none" />
-    <path
-       d="m 26.027338,58.907217 16.09375,0 0,9.092783 29.90625,-19 -29.90625,-19 0,9 -16.09375,0 z"
-       inkscape:connector-curvature="0"
-       id="path46"
-       style="opacity:0.3;fill:black;fill-opacity:1;stroke:none" />
-    <path
-       d="m 26.027338,57.907217 16.09375,0 0,9.092783 29.90625,-19 -29.90625,-19 0,9 -16.09375,0 z"
-       inkscape:connector-curvature="0"
-       id="path60"
-       style="fill:url(#linearGradient3022);fill-opacity:1;stroke:none" />
-    <path
-       d="m 42.121088,29 29.90625,19 -0.78125,0.5 -29.125,-18.5 0,-1 z m 0,9 0,1 -16.09375,0 0,-1 16.09375,0 z"
-       inkscape:connector-curvature="0"
-       id="path62"
-       style="opacity:0.75;fill:white;fill-opacity:1;stroke:none" />
-    <path
-       d="m 71.246088,47.5 0.78125,0.5 -29.90625,19 0,-1 29.125,-18.5 z m -29.125,9.40625 0,1 -16.09375,0 0,-1 16.09375,0 z"
-       inkscape:connector-curvature="0"
-       id="path64"
-       style="opacity:0.15;fill:black;fill-opacity:1;stroke:none" />
-  </g>
+  <path
+     style="fill:url(#linearGradient3022);fill-opacity:1;stroke:none"
+     id="path60"
+     inkscape:connector-curvature="0"
+     d="m 11.174346,62.329368 25.783274,0 0,14.567252 47.911831,-30.439282 -47.911831,-30.439283 0,14.418608 -25.783274,0 z" />
+  <path
+     style="opacity:0.75;fill:#ffffff;fill-opacity:1;stroke:none"
+     id="path62"
+     inkscape:connector-curvature="0"
+     d="m 36.95762,16.018055 47.911831,30.439283 -1.251615,0.801034 -46.660216,-29.638249 0,-1.602068 z m 0,14.418608 0,1.602067 -25.783274,0 0,-1.602067 25.783274,0 z" />
+  <path
+     style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:none"
+     id="path64"
+     inkscape:connector-curvature="0"
+     d="m 83.617836,45.656304 1.251615,0.801034 -47.911831,30.439282 0,-1.602067 46.660216,-29.638249 z m -46.660216,15.069448 0,1.602067 -25.783274,0 0,-1.602067 25.783274,0 z" />
 </svg>
