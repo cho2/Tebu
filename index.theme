@@ -346,6 +346,11 @@ Type=Scalable
 MinSize=8
 MaxSize=512
 
+[animations/scalable]
+Size=22
+Context=Actions
+Type=Scalable
+
 [apps/scalable]
 Size=96
 Context=Apps
