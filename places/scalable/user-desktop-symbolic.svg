@@ -13,7 +13,7 @@
    width="16"
    id="svg3295"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="user-desktop-symbolic.svg">
   <metadata
      id="metadata3303">
@@ -37,15 +37,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
+     inkscape:window-width="725"
      inkscape:window-height="480"
      id="namedview3299"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="8"
+     inkscape:cx="0.30508475"
      inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-x="76"
+     inkscape:window-y="102"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg3295" />
   <path
@@ -72,5 +72,5 @@
      fill-rule="nonzero"
      shape-rendering="auto"
      id="path3297"
-     style="fill:#666666" />
+     style="fill:#cccccc" />
 </svg>
