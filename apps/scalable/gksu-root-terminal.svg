@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="gksu-debian.svg"
+   sodipodi:docname="gksu-root-terminal.svg"
    inkscape:export-filename="/home/winardiaris/.icons/Tebu/apps/96/gksu-debian.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -38,12 +38,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="708"
      id="namedview46"
      showgrid="false"
      inkscape:zoom="2.4583333"
-     inkscape:cx="48"
-     inkscape:cy="48"
+     inkscape:cx="-15.457628"
+     inkscape:cy="47.999999"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -137,17 +137,6 @@
          offset="1"
          stop-color="#141414" />
     </radialGradient>
-    <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4430209,-0.01824533,0.01429472,1.1305677,-22.609317,-9.3855841)"
-       r="40.243763"
-       fy="70.344261"
-       fx="46.174255"
-       cy="70.344261"
-       cx="46.174255"
-       id="radialGradient4214"
-       xlink:href="#radialGradient4237"
-       inkscape:collect="always" />
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="95.269958"
@@ -158,6 +147,15 @@
        xlink:href="#linearGradient4216"
        inkscape:collect="always"
        gradientTransform="translate(-0.1630013,0.02002263)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient4237"
+       id="linearGradient4163"
+       x1="59.574062"
+       y1="5.1882901"
+       x2="59.574062"
+       y2="82.883202"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <rect
      style="fill-opacity:0.02000002"
@@ -202,7 +200,7 @@
      id="path28-3"
      d="m 5.6125987,73.460023 0,5.0663 c 0,6.668 5.3434003,12.032 11.9850003,12.032 l 60.809,0 c 6.6418,0 11.985,-5.3645 11.985,-12.032 l 0,-5.0663 c 0,6.6681 -5.3434,12.032 -11.985,12.032 l -60.809,0 c -6.6418,0 -11.9850003,-5.3643 -11.9850003,-12.032 z" />
   <path
-     style="fill:url(#radialGradient4214);fill-opacity:1;stroke:url(#linearGradient4222);stroke-width:1.29999995;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:url(#linearGradient4163);fill-opacity:1;stroke:url(#linearGradient4222);stroke-width:1.29999995;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 19.116271,7.4397292 c -6.307943,0 -11.3667858,5.1229958 -11.3667858,11.4558208 l 0,53.265115 c 0.058741,6.280911 5.1051118,11.318557 11.3760608,11.318557 l 57.7521,0 c 6.15973,0 11.129128,-4.862847 11.359367,-10.988387 l 0,-53.595285 c 0,-6.332635 -5.058843,-11.4558208 -11.366786,-11.4558208 l -57.753956,0 z"
      id="path4205"
      inkscape:connector-curvature="0" />

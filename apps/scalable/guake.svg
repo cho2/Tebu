@@ -38,12 +38,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="708"
      id="namedview46"
      showgrid="false"
      inkscape:zoom="2.4583333"
-     inkscape:cx="77.125289"
-     inkscape:cy="57.872227"
+     inkscape:cx="13.667661"
+     inkscape:cy="57.872226"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -95,17 +95,6 @@
          stop-color="#dae0de" />
     </linearGradient>
     <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.4430209,-0.01824533,0.01429472,1.1305677,-22.609317,-9.385584)"
-       r="40.243763"
-       fy="70.344261"
-       fx="46.174255"
-       cy="70.344261"
-       cx="46.174255"
-       id="radialGradient4214"
-       xlink:href="#radialGradient6853"
-       inkscape:collect="always" />
-    <radialGradient
        gradientTransform="matrix(1.3031,0,0,1.0199,-14.917,-12.741)"
        cx="47.099998"
        id="radialGradient4237"
@@ -143,6 +132,15 @@
          offset="1"
          style="stop-color:#000000;stop-opacity:0;" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#radialGradient6853"
+       id="linearGradient4160"
+       x1="65.268974"
+       y1="10.476426"
+       x2="65.268974"
+       y2="81.662865"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <rect
      style="fill-opacity:0.02000002"
@@ -187,7 +185,7 @@
      id="path28-3"
      d="m 5.6125987,73.460023 0,5.0663 c 0,6.668 5.3434003,12.032 11.9850003,12.032 l 60.809,0 c 6.6418,0 11.985,-5.3645 11.985,-12.032 l 0,-5.0663 c 0,6.6681 -5.3434,12.032 -11.985,12.032 l -60.809,0 c -6.6418,0 -11.9850003,-5.3643 -11.9850003,-12.032 z" />
   <path
-     style="fill:url(#radialGradient4214);fill-opacity:1.0;stroke:url(#linearGradient4222);stroke-width:1.29999995;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:url(#linearGradient4160);fill-opacity:1;stroke:url(#linearGradient4222);stroke-width:1.29999995;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 19.116271,7.4397289 c -6.307943,0 -11.3667858,5.1229961 -11.3667858,11.4558211 l 0,53.265115 c 0.058741,6.280911 5.1051118,11.318557 11.3760608,11.318557 l 57.7521,0 c 6.15973,0 11.129128,-4.862847 11.359367,-10.988387 l 0,-53.595285 c 0,-6.332635 -5.058843,-11.4558211 -11.366786,-11.4558211 l -57.753956,0 z"
      id="path4205"
      inkscape:connector-curvature="0" />
