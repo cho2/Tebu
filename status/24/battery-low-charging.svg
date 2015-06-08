@@ -1,44 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="24"
-   height="24"
-   id="svg3004">
-  <defs
-     id="defs3006" />
-  <metadata
-     id="metadata3009">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <path
-     d="M 5,7 C 4.446,7 4,7.446 4,8 l 0,8 c 0,0.554 0.446,1 1,1 l 12,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 1,0 c 0.554,0 1,-0.446 1,-1 l 0,-2 c 0,-0.554 -0.446,-1 -1,-1 l -1,0 0,-2 C 18,7.446 17.554,7 17,7 z m 0.5,1 11,0 C 16.777,8 17,8.223 17,8.5 l 0,7 c 0,0.277 -0.223,0.5 -0.5,0.5 l -11,0 C 5.223,16 5,15.777 5,15.5 l 0,-7 C 5,8.223 5.223,8 5.5,8 z m 12.5,3 0.5,0 c 0.277,0 0.5,0.223 0.5,0.5 l 0,1 C 19,12.777 18.777,13 18.5,13 L 18,13 z"
-     inkscape:connector-curvature="0"
-     id="rect3206"
-     style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <path
-     d="M 6.25,9 C 6.1115,9 6,9.1115 6,9.25 L 6,10 10,13 10.0625,10 11,10.78125 11,9.25 C 11,9.1115 10.8885,9 10.75,9 z M 6,11 6,14.75 C 6,14.8885 6.1115,15 6.25,15 l 4.5,0 c 0.01039,0 0.0212,0.0012 0.03125,0 z"
-     inkscape:connector-curvature="0"
-     id="rect3002"
-     style="opacity:0.3;color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  <path
-     d="M 16,14 10.047499,9 10,12 6,10 l 6,5 0,-3 z"
-     inkscape:connector-curvature="0"
-     id="path3172"
-     style="color:#bebebe;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19pt" height="19pt" viewBox="0 0 19 19" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.509804%,74.509804%,74.509804%);fill-opacity:1;" d="M 3.957031 5.542969 C 3.519531 5.542969 3.167969 5.894531 3.167969 6.332031 L 3.167969 12.667969 C 3.167969 13.105469 3.519531 13.457031 3.957031 13.457031 L 13.457031 13.457031 C 13.898438 13.457031 14.25 13.105469 14.25 12.667969 L 14.25 11.082031 L 15.042969 11.082031 C 15.480469 11.082031 15.832031 10.730469 15.832031 10.292969 L 15.832031 8.707031 C 15.832031 8.269531 15.480469 7.917969 15.042969 7.917969 L 14.25 7.917969 L 14.25 6.332031 C 14.25 5.894531 13.898438 5.542969 13.457031 5.542969 Z M 4.355469 6.332031 L 13.0625 6.332031 C 13.28125 6.332031 13.457031 6.511719 13.457031 6.730469 L 13.457031 12.269531 C 13.457031 12.488281 13.28125 12.667969 13.0625 12.667969 L 4.355469 12.667969 C 4.136719 12.667969 3.957031 12.488281 3.957031 12.269531 L 3.957031 6.730469 C 3.957031 6.511719 4.136719 6.332031 4.355469 6.332031 Z M 14.25 8.707031 L 14.644531 8.707031 C 14.863281 8.707031 15.042969 8.886719 15.042969 9.105469 L 15.042969 9.894531 C 15.042969 10.113281 14.863281 10.292969 14.644531 10.292969 L 14.25 10.292969 Z M 14.25 8.707031 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.509804%,74.509804%,74.509804%);fill-opacity:0.298039;" d="M 4.949219 7.125 C 4.839844 7.125 4.75 7.214844 4.75 7.324219 L 4.75 7.917969 L 7.917969 10.292969 L 7.964844 7.917969 L 8.707031 8.535156 L 8.707031 7.324219 C 8.707031 7.214844 8.621094 7.125 8.511719 7.125 Z M 4.75 8.707031 L 4.75 11.675781 C 4.75 11.785156 4.839844 11.875 4.949219 11.875 L 8.511719 11.875 C 8.519531 11.875 8.527344 11.875 8.535156 11.875 Z M 4.75 8.707031 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(74.509804%,74.509804%,74.509804%);fill-opacity:1;" d="M 12.667969 11.082031 L 7.953125 7.125 L 7.917969 9.5 L 4.75 7.917969 L 9.5 11.875 L 9.5 9.5 Z M 12.667969 11.082031 "/>
+</g>
 </svg>
