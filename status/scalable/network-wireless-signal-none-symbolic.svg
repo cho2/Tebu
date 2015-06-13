@@ -1,8 +1,0 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <g inkscape:label="Calque 1" inkscape:groupmode="layer">
-  <path d="M 8,2 C 4.8812155,2 2.0438333,3.3284272 0,5.5 L 1.3529412,6.9375 C 3.0561357,5.1278558 5.4010136,4 8,4 c 2.598986,0 4.943864,1.1278558 6.647059,2.9375 L 16,5.5 C 13.956167,3.3284272 11.118784,2 8,2 z" stroke-width="1.5" display="inline" fill="#cccccc" color="#000000" fill-opacity="1" fill-rule="nonzero" stroke="none" visibility="visible" opacity="0.45"/>
-  <path d="M 8,5 C 5.6609119,5 3.532875,5.9963203 2,7.625 L 3.3529412,9.0625 C 4.5451773,7.7957491 6.1807092,7 8,7 9.8192908,7 11.454823,7.7957491 12.647059,9.0625 L 14,7.625 C 12.467125,5.9963203 10.339088,5 8,5 z" stroke-width="1.5" display="inline" fill="#cccccc" color="#000000" fill-opacity="1" fill-rule="nonzero" stroke="none" visibility="visible" opacity="0.45"/>
-  <path d="M 8,8 C 6.4406076,8 5.0219166,8.6642136 4,9.75 l 1.3235294,1.40625 C 6.0048072,10.432392 6.9604053,10 8,10 c 1.0395948,0 1.9951925,0.432392 2.676471,1.15625 L 12,9.75 C 10.978084,8.6642136 9.5593925,8 8,8 z" stroke-width="1.5" display="inline" fill="#cccccc" color="#000000" fill-opacity="1" fill-rule="nonzero" stroke="none" visibility="visible" opacity="0.45"/>
-  <path d="M 8,11 C 7.2203039,11 6.5109583,11.332107 6,11.875 L 8,14 10,11.875 C 9.4890417,11.332107 8.7796961,11 8,11 z" stroke-width="1.5" display="inline" fill="#cccccc" color="#000000" fill-opacity="1" fill-rule="nonzero" stroke="none" visibility="visible" opacity="0.45"/>
- </g>
-</svg>
