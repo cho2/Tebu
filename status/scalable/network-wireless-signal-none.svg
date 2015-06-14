@@ -36,23 +36,25 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
      id="namedview4170"
      showgrid="false"
      inkscape:zoom="9.9368421"
-     inkscape:cx="11.875"
-     inkscape:cy="11.875"
-     inkscape:window-x="166"
-     inkscape:window-y="201"
-     inkscape:window-maximized="0"
+     inkscape:cx="-3.8241525"
+     inkscape:cy="10.26483"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg4165" />
   <g
      id="surface1"
-     style="fill:#cccccc">
+     style="fill:#cccccc"
+     transform="matrix(0.75789474,0,0,0.75789474,2.3,2.3)">
     <path
-       style="stroke:none;fill-rule:nonzero;fill:#cccccc;fill-opacity:0.901961"
-       d="M 9.5 2.375 C 3.066406 2.375 0 5.9375 0 5.9375 L 9.5 16.625 L 19 5.9375 C 19 5.9375 16.011719 2.375 9.5 2.375 Z M 9.5 3.5625 C 14.65625 3.5625 17.21875 6.234375 17.21875 6.234375 L 9.5 14.84375 L 1.78125 6.234375 C 1.78125 6.234375 4.40625 3.5625 9.5 3.5625 Z M 9.5 3.5625 "
-       id="path4168" />
+       style="fill:#cccccc;fill-opacity:0.90196102;fill-rule:nonzero;stroke:none"
+       d="M 9.5,2.375 C 3.066406,2.375 0,5.9375 0,5.9375 L 9.5,16.625 19,5.9375 c 0,0 -2.988281,-3.5625 -9.5,-3.5625 z m 0,1.1875 c 5.15625,0 7.71875,2.671875 7.71875,2.671875 L 9.5,14.84375 1.78125,6.234375 c 0,0 2.625,-2.671875 7.71875,-2.671875 z m 0,0"
+       id="path4168"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

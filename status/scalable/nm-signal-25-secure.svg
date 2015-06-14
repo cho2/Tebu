@@ -41,8 +41,8 @@
      id="namedview168"
      showgrid="false"
      inkscape:zoom="9.9368421"
-     inkscape:cx="-7.0444914"
-     inkscape:cy="11.875"
+     inkscape:cx="1.4088984"
+     inkscape:cy="-1.0063559"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -54,7 +54,7 @@
      style="fill:#f8822b;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <g
      id="g6417"
-     transform="translate(2.615e-4,-2e-4)">
+     transform="matrix(0.77317607,0,0,0.77317607,2.1550295,2.1546727)">
     <path
        style="fill:#cccccc;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none"
        d="M 9.4997386,2.3754 C 5.3553239,2.3754 1.8124544,3.9222316 0.1875,6.1604498 L 1.5234005,7.6447831 C 2.8866432,5.7190561 5.956869,4.3792498 9.4997386,4.3792498 c 3.5428694,0 6.6130954,1.3398063 7.9763384,3.2655333 l 1.3359,-1.4843333 C 17.187023,3.9222316 13.644153,2.3754 9.4997386,2.3754 Z m 0,0"
