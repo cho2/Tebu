@@ -1,6 +1,31 @@
-<svg height="16" width="16" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
- <g display="inline" inkscape:label="Cross" inkscape:groupmode="layer">
-  <path stroke-opacity="1" d="m 5.0625,3.03125 c 0.077114,1.0764204 -0.7790291,0.9668544 -1,1 l 0,1 1,0 0,3.96875 1.96875,0 0,-5.96875 -1.96875,0 z" stroke-width="0.5" fill="#bebebe" fill-opacity="1" stroke="none" stroke-dasharray="none" opacity="1" stroke-linecap="butt" stroke-linejoin="round" stroke-miterlimit="4"/>
-  <path d="m 6.0346439,0.456963 c -1.4236033,0 -2.8640143,0.5749259 -3.9494135,1.662911 -2.17079759,2.1759704 -2.1707981,5.6882127 0,7.8641827 1.7185494,1.7226453 4.2680247,2.0788393 6.3398481,1.0739643 0.054521,-0.02644 0.1194082,-0.07559 0.1732199,-0.103932 0.3363183,-0.133139 1.1815124,-0.378525 1.6282666,0.06929 0.331369,0.33216 0.220613,0.773709 0.727524,1.281828 l 3.395109,3.395109 c 0.0035,-0.0035 0.653835,0.664216 1.316472,0 0.665196,-0.666781 0.0097,-1.338905 0,-1.351115 l -3.360466,-3.395109 c -0.506911,-0.50812 -0.915814,-0.395365 -1.247183,-0.727524 -0.546303,-0.5476049 -0.03264,-1.6623665 0,-1.732199 C 12.060508,6.4176092 11.702604,3.8425172 9.9840571,2.119874 8.8986578,1.031889 7.4582474,0.456963 6.0346439,0.456963 z m 0,1.4204031 c 2.3024792,-10e-8 4.1572781,1.8839564 4.1572781,4.1919215 0,2.3079648 -1.8547987,4.1572774 -4.1572781,4.1572774 -2.3024792,0 -4.1572774,-1.8493124 -4.1572774,-4.1572774 7e-7,-2.307965 1.8547983,-4.1919215 4.1572774,-4.1919215 z" fill="#bebebe" fill-opacity="1" stroke="none" inkscape:transform-center-x="-2.2103061" inkscape:transform-center-y="2.2258551" inkscape:connector-curvature="0"/>
- </g>
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg xmlns:dc='http://purl.org/dc/elements/1.1/' sodipodi:docname='zoom-original-symbolic.svg' width='15.981825' inkscape:version='0.48.1 r9760' version='1.1' xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' height='16' id='svg7384' xmlns:svg='http://www.w3.org/2000/svg' xmlns:inkscape='http://www.inkscape.org/namespaces/inkscape' xmlns:cc='http://creativecommons.org/ns#' xmlns='http://www.w3.org/2000/svg' xmlns:sodipodi='http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd'>
+  <metadata id='metadata90'>
+    <rdf:RDF>
+      <cc:Work rdf:about=''>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource='http://purl.org/dc/dcmitype/StillImage'/>
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview inkscape:pageopacity='1' inkscape:snap-to-guides='true' borderopacity='1' inkscape:window-maximized='0' inkscape:snap-bbox='true' inkscape:object-nodes='false' inkscape:object-paths='false' inkscape:window-width='1226' pagecolor='#555753' gridtolerance='10' inkscape:pageshadow='2' bordercolor='#666666' inkscape:current-layer='layer12' showguides='true' id='namedview88' showborder='false' inkscape:bbox-paths='false' inkscape:snap-global='true' inkscape:window-x='2804' inkscape:window-y='77' inkscape:snap-nodes='true' inkscape:guide-bbox='true' inkscape:snap-grids='true' objecttolerance='10' inkscape:cx='-165.32058' inkscape:cy='-103.01275' inkscape:snap-others='false' showgrid='false' inkscape:snap-bbox-midpoints='false' guidetolerance='10' inkscape:zoom='1' inkscape:window-height='967'>
+    <inkscape:grid enabled='true' type='xygrid' id='grid4866' snapvisiblegridlinesonly='true' visible='true' empspacing='2' spacingx='1px' spacingy='1px'/>
+  </sodipodi:namedview>
+  <title id='title9167'>Gnome Symbolic Icon Theme</title>
+  <defs id='defs7386'/>
+  <g inkscape:label='status' id='layer9' style='display:inline' inkscape:groupmode='layer' transform='translate(-221.0002,-667)'/>
+  <g inkscape:label='devices' id='layer10' inkscape:groupmode='layer' transform='translate(-221.0002,-667)'/>
+  <g inkscape:label='apps' id='layer11' inkscape:groupmode='layer' transform='translate(-221.0002,-667)'/>
+  <g inkscape:label='places' id='layer13' inkscape:groupmode='layer' transform='translate(-221.0002,-667)'/>
+  <g inkscape:label='mimetypes' id='layer14' inkscape:groupmode='layer' transform='translate(-221.0002,-667)'/>
+  <g inkscape:label='emblems' id='layer15' style='display:inline' inkscape:groupmode='layer' transform='translate(-221.0002,-667)'/>
+  <g inkscape:label='emotes' id='g71291' style='display:inline' inkscape:groupmode='layer' transform='translate(-221.0002,-667)'/>
+  <g inkscape:label='categories' id='g4953' style='display:inline' inkscape:groupmode='layer' transform='translate(-221.0002,-667)'/>
+  <g inkscape:label='actions' id='layer12' style='display:inline' inkscape:groupmode='layer' transform='translate(-221.0002,-667)'>
+    <path d='m 224.1877,669 c -0.6627,0 -1.1875,0.54899 -1.1875,1.21875 l 0,9.5625 c 0,0.66976 0.5248,1.21875 1.1875,1.21875 l 9.625,0 c 0.6627,0 1.1875,-0.54899 1.1875,-1.21875 l 0,-9.5625 c 0,-0.66976 -0.5248,-1.21875 -1.1875,-1.21875 l -9.625,0 z m 3.8125,3 2,0 0,6 -2,0 0,-4 -1,0 0,-1 c 0.69433,0 1,-0.34772 1,-1 z' id='rect11749-5-0-1-8-7-8' style='color:#eeeeee;fill:#eeeeee;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible' inkscape:connector-curvature='0'/>
+    
+  </g>
 </svg>

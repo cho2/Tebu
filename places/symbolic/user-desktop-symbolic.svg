@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -27,50 +28,97 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3301" />
+     id="defs3301">
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5606">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5608" />
+    </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-2"
+       inkscape:collect="always">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-0"
+         inkscape:collect="always" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#cccccc"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="725"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
      id="namedview3299"
      showgrid="false"
-     inkscape:zoom="14.75"
-     inkscape:cx="0.30508475"
-     inkscape:cy="8"
-     inkscape:window-x="76"
-     inkscape:window-y="102"
-     inkscape:window-maximized="0"
+     inkscape:zoom="20.85965"
+     inkscape:cx="8.443041"
+     inkscape:cy="6.6151624"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg3295" />
+  <rect
+     style="opacity:0.4;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect4256"
+     width="13.231451"
+     height="8.8209677"
+     x="1.4861413"
+     y="1.6180873" />
   <path
-     stroke="none"
-     stroke-dasharray="none"
-     stroke-dashoffset="0"
-     stroke-linecap="butt"
-     stroke-linejoin="miter"
-     color="#000000"
-     stroke-miterlimit="4"
-     stroke-opacity="1"
-     color-interpolation="sRGB"
-     image-rendering="auto"
-     stroke-width="1"
-     color-interpolation-filters="linearRGB"
-     color-rendering="auto"
-     d="M 2 2 L 2 14 L 14 14 L 14 2 L 2 2 z M 3 3 L 13 3 L 13 4 L 3 4 L 3 3 z M 3 5 L 13 5 L 13 13 L 12 13 L 12 12 L 12 11 L 11 11 L 5 11 L 4 11 L 4 13 L 3 13 L 3 5 z M 5 12 L 11 12 L 11 13 L 5 13 L 5 12 z "
-     text-rendering="auto"
-     display="inline"
-     visibility="visible"
-     fill="#bebebe"
-     fill-opacity="1"
-     opacity="1"
-     fill-rule="nonzero"
-     shape-rendering="auto"
-     id="path3297"
-     style="fill:#cccccc" />
+     style="fill:#cccccc;fill-opacity:1;stroke:none"
+     sodipodi:nodetypes="sccscccsscccccccccccc"
+     id="path8126-3"
+     d="m 2.7500246,1.0014479 c -1.7498371,0 -1.7500121,1.7500121 -1.7500121,1.7500121 l 0,7.875055 c 0,0 1.75e-4,1.750012 1.7500121,1.750012 l 10.5000734,0 c 0,0 1.750012,0 1.750012,-1.750012 1.75e-4,-0.0026 0,-4.9587297 0,-7.8750025 0,0 1.75e-4,-1.7500121 -1.750012,-1.7500121 z m -1.837e-4,1.7499596 10.5000721,0 0,7.0003635 -10.5000721,-3.15e-4 z m 0.875006,11.3750785 1.75e-4,0.872066 8.7500611,0 -1.75e-4,-0.872066 c 0,-0.875006 -0.875007,-0.875006 -0.875007,-0.875006 l -7.0190969,0 c 0,0 -0.8559572,0 -0.8559572,0.875006 z"
+     inkscape:connector-curvature="0" />
+  <g
+     id="layer10-6"
+     inkscape:label="devices"
+     style="display:inline;filter:url(#filter7554-2)"
+     transform="matrix(1.0000125,0,0,1.0000125,-435.55184,227.71301)" />
+  <g
+     id="layer1-8"
+     inkscape:label="places"
+     style="display:inline"
+     transform="matrix(1.0000125,0,0,1.0000125,-194.54862,-389.29471)" />
+  <g
+     id="layer14-6"
+     inkscape:label="mimetypes"
+     style="display:inline"
+     transform="matrix(1.0000125,0,0,1.0000125,-435.55184,227.71301)" />
+  <g
+     id="layer15-8"
+     inkscape:label="emblems"
+     style="display:inline"
+     transform="matrix(1.0000125,0,0,1.0000125,-435.55184,227.71301)" />
+  <g
+     id="g71291-97"
+     inkscape:label="emotes"
+     style="display:inline"
+     transform="matrix(1.0000125,0,0,1.0000125,-435.55184,227.71301)" />
+  <g
+     id="layer2-4"
+     inkscape:label="categories"
+     style="display:inline"
+     transform="matrix(1.0000125,0,0,1.0000125,-194.54862,-239.29283)" />
+  <g
+     id="g6058-6"
+     inkscape:label="apps"
+     style="display:inline"
+     transform="matrix(1.0000125,0,0,1.0000125,-194.54862,-239.29283)" />
+  <g
+     id="layer12-5"
+     inkscape:label="actions"
+     style="display:inline"
+     transform="matrix(1.0000125,0,0,1.0000125,-435.55184,227.71301)" />
 </svg>

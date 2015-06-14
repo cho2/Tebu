@@ -28,7 +28,7 @@
      id="defs3015" />
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#cccccc"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -58,7 +58,7 @@
      visibility="visible"
      inkscape:connector-curvature="0"
      id="path3009"
-     style="fill:#666666" />
+     style="fill:#cccccc" />
   <path
      d="M 7,4 7,8 4,8 8,12 12,8 9,8 9,4 z"
      stroke-width="1"
@@ -71,5 +71,5 @@
      visibility="visible"
      inkscape:connector-curvature="0"
      id="path3011"
-     style="fill:#666666" />
+     style="fill:#cccccc" />
 </svg>
