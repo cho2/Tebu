@@ -1,1 +1,7 @@
-network-wireless-signal-excellent.svg
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19pt" height="19pt" viewBox="0 0 19 19" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:evenodd;fill:rgb(80%,80%,80%);fill-opacity:1;" d="M 3.066406 6.773438 L 9.320312 14.144531 L 15.734375 6.773438 C 11.851562 3.546875 6.933594 3.445312 3.066406 6.773438 Z M 3.066406 6.773438 "/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(80%,80%,80%);fill-opacity:1;" d="M 9.402344 4.058594 C 4.574219 4.058594 2.277344 6.730469 2.277344 6.730469 L 9.402344 14.746094 L 16.527344 6.730469 C 16.527344 6.730469 14.285156 4.058594 9.402344 4.058594 Z M 9.402344 4.949219 C 13.269531 4.949219 15.191406 6.953125 15.191406 6.953125 L 9.402344 13.410156 L 3.613281 6.953125 C 3.613281 6.953125 5.582031 4.949219 9.402344 4.949219 Z M 9.402344 4.949219 "/>
+</g>
+</svg>

@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="19pt"
-   height="19pt"
+   width="23.75"
+   height="23.75"
    viewBox="0 0 19 19"
    version="1.1"
    id="svg4193"
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,16 +41,17 @@
      inkscape:window-height="708"
      id="namedview4204"
      showgrid="false"
-     inkscape:zoom="9.9368421"
-     inkscape:cx="-3.8241525"
-     inkscape:cy="11.069915"
+     inkscape:zoom="19.873684"
+     inkscape:cx="12.516519"
+     inkscape:cy="11.224909"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4193" />
+     inkscape:current-layer="svg4193"
+     units="px" />
   <g
      id="g6326"
-     transform="matrix(0.77317607,0,0,0.77317607,2.1550295,2.1546727)">
+     transform="matrix(0.77317607,0,0,0.77317607,-19.099208,2.1546727)">
     <path
        style="fill:#cccccc;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none"
        d="M 9.4997386,2.3754 C 5.3553239,2.3754 1.8124544,3.9222316 0.1875,6.1604498 L 1.5234005,7.6447831 C 2.8866432,5.7190561 5.956869,4.3792498 9.4997386,4.3792498 c 3.5428694,0 6.6130954,1.3398063 7.9763384,3.2655333 l 1.3359,-1.4843333 C 17.187023,3.9222316 13.644153,2.3754 9.4997386,2.3754 Z m 0,0"
@@ -71,4 +73,15 @@
        id="path4202"
        inkscape:connector-curvature="0" />
   </g>
+  <path
+     style="fill:#cccccc;fill-rule:evenodd;stroke:none;stroke-width:0.80000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 7.1638299,11.836729 2.2556618,2.456697 2.4166783,-2.456697 c -1.35138,-1.012933 -3.0635334,-0.956601 -4.6723401,0 z"
+     id="path13333"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="M 9.5,4.1 C 4.624013,4.1 2.3,6.8000005 2.3,6.8000005 L 9.5,14.9 16.7,6.8000005 C 16.7,6.8000005 14.435198,4.1 9.5,4.1 Z m 0,0.9000005 c 3.907895,0 5.85,2.025 5.85,2.025 L 9.5,13.55 3.65,7.0250005 c 0,0 1.9894737,-2.025 5.85,-2.025 z m 0,0"
+     id="path4168"
+     inkscape:connector-curvature="0" />
 </svg>
