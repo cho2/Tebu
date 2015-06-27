@@ -9,6 +9,7 @@ function Go {
 	jumlah=0
 	pwd=$('pwd')
 	
+	rm -rf $pwd/${icon}/{16,22,24}
 	source=$pwd/${icon}/scalable
 	cd $source
 	
@@ -29,7 +30,6 @@ function Go {
 		
 		target=$pwd/${icon}/${size[x]} 
 		mkdir -p $target ##make folder size
-		rm -rf $target/*
 		cp -r $source/symlink/ $target/symlink/
 		cd $source
 
